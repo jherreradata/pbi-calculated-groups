@@ -50,7 +50,7 @@ When a new base measure is added to the model (e.g. `Margin €`), the calculati
 ```
 pbi-calculated-groups/
 │
-├── HTML_CalculatedGroups.pbix   # Power BI file with the working example
+├── CalculatedGroups.pbix   # Power BI file with the working example
 └── README.md
 ```
 
